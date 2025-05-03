@@ -79,3 +79,6 @@ var minutos = duracaoEmMinutos % 60;
 
 // Exibindo o resultado no console
 console.log("O evento durou " + horas+ " horas e " + minutos +" minutos.");
+
+//add comentario
+console.log("tudo certo");
